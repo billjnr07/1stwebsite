@@ -1,7 +1,7 @@
-name: "1stwebsite"
-title: "The Empire"
+name: "Bill Muchero"
+title: "My Works"
 description: |
-  The Empire
+  A home for my projects and stuff
 output_dir: "docs"
 navbar:
   right:
